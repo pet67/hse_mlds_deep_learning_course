@@ -1,4 +1,4 @@
-# Theme
+# Introduction to GNN
 
 ## Lectures
 * [Very gentle intro to Graph Neural Networks ](https://www.youtube.com/watch?v=GXhBEj1ZtE8)
