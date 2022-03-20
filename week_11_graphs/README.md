@@ -10,7 +10,7 @@
 * [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro)
 
 ## Seminar
-* Seminar slides coming soon
-* Seminar coming soon
-
+* [Seminar slides](https://docs.google.com/presentation/d/1NzfUYC4619Gn6XFDyy-srFCxKxUhFTYqGT6ulh7UT3U/edit?usp=sharing)
+* [Introduction: Hands-on Graph Neural Networks](https://colab.research.google.com/drive/1h3-vJGRVloF5zStxL5I0rSy4ZUPNsjy8?usp=sharing)
+* [Node Classification with Graph Neural Networks](https://colab.research.google.com/drive/14OvFnAXggxB8vM4e8vSURUp1TaKnovzX?usp=sharing)
 
