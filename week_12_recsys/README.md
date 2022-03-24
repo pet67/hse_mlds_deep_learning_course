@@ -1,4 +1,4 @@
-# Theme
+# Recsys
 
 ## Lectures
 * [Lection coming soon](https://www.google.ru/)
