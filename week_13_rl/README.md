@@ -1,6 +1,6 @@
-# Theme
+# RL intro
 
-## RL intro
+## Lections
 * [yandexdataschool Practical Rl intro lection](https://disk.yandex.ru/i/HpRw6zYv3SPmFf)
 
 ## Seminar and optional hw (0.5 point)
