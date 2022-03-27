@@ -7,5 +7,4 @@
 * [Seminar slides coming soon](https://www.google.ru/)
 * [Seminar coming soon](https://www.google.ru/)
 
-## Optional hw (0.5 point)
 
