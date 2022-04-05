@@ -9,7 +9,7 @@
 * [YSDA Practical Rl intro seminar 2](https://github.com/yandexdataschool/Practical_RL/blob/master/week01_intro/deep_crossentropy_method.ipynb)
 
 ## Homework Last :) (NOT optional)  **deadline 24.04.2022**
-The base options is:
+The base options are:
 
 * [YSDA Practical Rl intro seminar 2 (Homework part)](https://github.com/yandexdataschool/Practical_RL/blob/master/week01_intro/deep_crossentropy_method.ipynb) (you need solve both MountainCar-v0 **and** LunarLander-v2)
 * [YSDA Captioning seminar](https://github.com/yandexdataschool/Practical_DL/blob/fall21/week06_rnn/captioning_torch.ipynb)  - here you also need to do "Attention" and "Subword level captioning" improvements
